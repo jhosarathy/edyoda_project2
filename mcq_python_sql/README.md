@@ -30,6 +30,10 @@ Code architecture
 
 ![Class diagram](./classdiagram.png)
 
+## Preloaded Data
+
+Please find the preloaded data in the `data` directory of this folder. Sample users with creds have been added there
+
 ## Development Environment
 
 ```bash
