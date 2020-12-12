@@ -18,17 +18,17 @@ Operations
 - TAKE_QUIZ: User will be asked questions from the given topic and level
 - CHECK_RESULTS: User can check results of previous attempts
 
-![Take Quiz](/qms_take_quiz.png)
+![Take Quiz](./qms_take_quiz.png)
 
-![Take Quiz 2](/qms_take_quiz_2.png)
+![Take Quiz 2](./qms_take_quiz_2.png)
 
-![Check results](/qms_check_results.png)
+![Check results](./qms_check_results.png)
 
 ## Class Diagram
 
 Code architecture
 
-![Class diagram](/classdiagram.png)
+![Class diagram](./classdiagram.png)
 
 ## Development Environment
 
